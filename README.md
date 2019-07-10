@@ -3,6 +3,7 @@
 In this repo you can find information and files on how to build a ram extruder for 3D printers. I developed a system to deposit paste like materials with as much standard, off-the-shelf parts as possible. The parts to make the extruder cost me around 100$.  
 
 I am using a 63mm external diameter PVC pipe with a 4mm wall. By printing an adaptor you can use pipes of different diameter. You will also need to print a new embolo to fit your pipe.
+
 **ToDo**: 
 * OpenScad file to generate the adaptors and the embolo based on use input of pipe ID and OD.
 

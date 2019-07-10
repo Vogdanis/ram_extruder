@@ -13,8 +13,8 @@ BOM:
 * [Nema23 Driver](https://www.omc-stepperonline.com/digital-stepper-driver/digital-stepper-driver-10-42a-20-50vdc-for-nema-17-23-24-stepper-motor-dm542t.html?mfp=45-output-current-a%5B1%20-%203.2,1%20-%204.2%5D)
 * [Power Supply 24V](https://www.omc-stepperonline.com/250w-24v-10a-115230v-switching-power-supply-stepper-motor-cnc-router-kits-s-250-24.html?search=power%20supply%20)
 
-![Image Ram_Extruder](https://github.com/Vogdanis/ram_extruder/blob/master/1.png)
-![Image Ram_Extruder](https://github.com/Vogdanis/ram_extruder/blob/master/2.png)
+![Image Ram_Extruder](https://github.com/Vogdanis/ram_extruder/blob/master/r1.png)
+![Image Ram_Extruder](https://github.com/Vogdanis/ram_extruder/blob/master/r2.png)
 
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.

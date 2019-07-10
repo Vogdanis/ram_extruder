@@ -3,6 +3,7 @@
 In this repo you can find information and files on how to build a ram extruder for 3D printers. The system I developed tries to use as much standard, off-the-shelf parts as possible. The parts to make the extruder cost me around 100$.  
 
 I am using a 63mm external diameter PVC pipe with a 4mm wall. By printing an adaptor you can use pipes of different diameter. You will also need to print a new embolo to fit your pipe.
+The biggest pipe that will fit to this design is 70mm extrnal diameter and you dont need to print any adaptors.
 
 **ToDo**: 
 * OpenScad file to generate the adaptors and the embolo based on user input of pipe ID and OD.

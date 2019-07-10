@@ -2,6 +2,7 @@
 
 In this repo you can find information and files on how to build a ram extruder for 3D printers. I developed a system to deposit paste like materials with as much standard, off-the-shelf parts as possible. The parts to make the extruder cost me around 100$.  
 
+I am using a 63mm external diameter PVC pipe with a 4mm wall. By printing an adaptor you can use pipes of different diameter. You will also need to print a new embolo to fit your pipe. **ToDo** OpenScad file to generate the adaptors and the embolo based on use input of pipe ID and OD.
 
 BOM:
 * [Nema23 Planetary Gearbox](https://www.omc-stepperonline.com/index.php?route=product/isearch&search=Nema%2023%20Stepper%20Motor%20Bipolar%20L%3D56mm%20w%2F%20Gear%20Ratio%2015%3A1%20Planetary%20Gearbox)
@@ -11,5 +12,6 @@ BOM:
 
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
+
 
 

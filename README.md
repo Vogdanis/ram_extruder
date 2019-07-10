@@ -13,6 +13,8 @@ BOM:
 * [Nema23 Driver](https://www.omc-stepperonline.com/digital-stepper-driver/digital-stepper-driver-10-42a-20-50vdc-for-nema-17-23-24-stepper-motor-dm542t.html?mfp=45-output-current-a%5B1%20-%203.2,1%20-%204.2%5D)
 * [Power Supply 24V](https://www.omc-stepperonline.com/250w-24v-10a-115230v-switching-power-supply-stepper-motor-cnc-router-kits-s-250-24.html?search=power%20supply%20)
 
+* [O-Rings](https://images.homedepot-static.com/productImages/360d9e44-cd3e-40d9-8739-51e6d9b5e924/svn/black-o-rings-o-ring-kits-96735-64_1000.jpg) I got this locally ~50mm Diameter 4mm thickness.
+
 ![Image Ram_Extruder](https://github.com/Vogdanis/ram_extruder/blob/master/r1.png)
 ![Image Ram_Extruder](https://github.com/Vogdanis/ram_extruder/blob/master/r2.png)
 

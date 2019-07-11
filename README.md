@@ -24,6 +24,8 @@ BOM:
 
 * 16x16 square aluminum profile. 1.5mm thickness, 350mm long.
 
+* 5mm thredded rods 450mm length.
+
 ![Image Ram_Extruder](https://github.com/Vogdanis/ram_extruder/blob/master/r1.png)
 ![Image Ram_Extruder](https://github.com/Vogdanis/ram_extruder/blob/master/r2.png)
 

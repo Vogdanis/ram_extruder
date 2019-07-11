@@ -18,9 +18,9 @@ BOM:
 
 * [O-Rings](https://images.homedepot-static.com/productImages/360d9e44-cd3e-40d9-8739-51e6d9b5e924/svn/black-o-rings-o-ring-kits-96735-64_1000.jpg) I got these locally ~50mm Diameter 4mm thickness.
 
-* 30x30 square profile. 1.5mm thickness, 370mm long.
+* 30x30 square tube profile. 1.5mm thickness, 370mm long.
 
-* 16x16 square alluminum profile. 1.5mm thickness, 350mm long.
+* 16x16 square aluminum profile. 1.5mm thickness, 350mm long.
 
 ![Image Ram_Extruder](https://github.com/Vogdanis/ram_extruder/blob/master/r1.png)
 ![Image Ram_Extruder](https://github.com/Vogdanis/ram_extruder/blob/master/r2.png)

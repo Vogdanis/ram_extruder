@@ -1,5 +1,7 @@
 # Ram_Extruder
 
+![Image Ram_Extruder](https://github.com/Vogdanis/ram_extruder/blob/master/extruder.jpg)
+
 In this repo you can find information and files on how to build a ram extruder for 3D printers. The system I developed tries to use as much standard, off-the-shelf parts as possible. The parts to make the extruder cost me around 100$.  
 
 I am using a 63mm external diameter PVC pipe with a 4mm wall. By printing an adaptor you can use pipes of different diameter. You will also need to print a new embolo to fit your pipe.

@@ -7,6 +7,8 @@ In this repo you can find information and files on how to build a ram extruder f
 I am using a 63mm external diameter PVC pipe with a 4mm wall. By printing an adaptor you can use pipes of different diameter. You will also need to print a new embolo to fit your pipe.
 The biggest pipe that will fit to this design is 70mm extrnal diameter and you dont need to print any adaptors.
 
+**I suggest to print all the parts with 80% infill and 3 perimeters.**
+
 **ToDo**: 
 * OpenScad file to generate the adaptors and the embolo based on user input of pipe ID and OD.
 
